@@ -1,6 +1,9 @@
 <template>
   <div class="hello">
    <div style="color: blue"><p>这里是第二个submodule</p></div>
+   <div style="color: blue"><p>这里是第二个submodule</p></div>
+   <div style="color: blue"><p>这里是第二个submodule</p></div>
+   <div style="color: blue"><p>这里是第二个submodule</p></div>
   </div>
 </template>
 
